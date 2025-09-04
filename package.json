@@ -2,9 +2,7 @@
   "name": "kodigo-music",
   "version": "0.0.1",
   "private": true,
-  "engines": {
-    "node": ">=18"
-  },
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
